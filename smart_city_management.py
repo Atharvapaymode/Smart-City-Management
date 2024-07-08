@@ -11,7 +11,7 @@ import plotly.express as px
 import requests
 
 # Set Streamlit page configuration (move this to the beginning)
-st.set_page_config(page_title="Smart City Management System", layout="wide")
+st.set_page_config(page_title="Smart-City Management System", layout="wide")
 
 # Function to load CSS
 def load_css(file_name):
